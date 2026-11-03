@@ -22,11 +22,3 @@ analisis eksploratif, dan persiapan model klasifikasi.
 - output/kamus_data.csv
 - output/laporan_kualitas.csv
 
-## Cara Menjalankan
-Buka notebook di Google Colab.
-Unggah file dataset asli jika diperlukan.
-Jalankan setiap cell dari atas ke bawah.
-
-## Catatan
-Nilai evaluasi model dan temuan analisis harus
-diinterpretasikan berdasarkan hasil aktual notebook.
